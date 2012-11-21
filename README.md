@@ -1,4 +1,4 @@
-fimdomundo
+Mutirão Fim do Mundo
 ==========
 
-mutirão do fim do mundo
+Construindo metodos de filtragem da mailing list metareciclagem
