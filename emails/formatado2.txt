@@ -1,0 +1,1975 @@
+on 8/8/05 11:33, Dalton Martins at dmartins_br-/E1597aS9LQAvxtiuMwx3w@public.gmane.org wrote:
+
+> 
+> --- regis <regis-fTvznGFZLYfQT0dZR+AlfA@public.gmane.org> escreveu:
+>> Dalton,
+> 
+> fala, meu caro régis!!!
+> 
+>> O assunto da escola publica esta aquecido com chegada de uma aliada
+>> que já
+>> tem mais de vinte anos de luta pela escola publica de qualidade no
+>> municipio.Hoje vai haver uma reunião a noite,estou meio inseguro na
+>> possibiladade de mantermos nossa filosofia dentro de uma instituição
+>> escolar,pelo que já tive de retorno na lista não tivemos uma
+>> experiencia
+>> meta nestes termos,ou já tivemos???se possivel gostaria de ouvi-lo
+>> neste
+>> tema.
+> 
+> conta mais como está isso!!!
+> mas, deixe-me contribuir com meus 2 cents para isso...
+> 
+> não tivemos ainda experiências formais dentro de uma escola, ou seja,
+> de chegar, sentar lá, abrir o lab e colocar para funcionar.
+> mas, veja, que isso não impede de que algo assim seja feito. mas,
+> antes de pensarmos em termos p
+--- regis <regis-fTvznGFZLYfQT0dZR+AlfA@public.gmane.org> escreveu:
+> Dalton,
+
+ fala, meu caro régis!!!
+ 
+> O assunto da escola publica esta aquecido com chegada de uma aliada
+> que já
+> tem mais de vinte anos de luta pela escola publica de qualidade no
+> municipio.Hoje vai haver uma reunião a noite,estou meio inseguro na
+> possibiladade de mantermos nossa filosofia dentro de uma instituição
+> escolar,pelo que já tive de retorno na lista não tivemos uma
+> experiencia
+> meta nestes termos,ou já tivemos???se possivel gostaria de ouvi-lo
+> neste
+> tema.
+
+ conta mais como está isso!!!
+ mas, deixe-me contribuir com meus 2 cents para isso...
+
+ não tivemos ainda experiências formais dentro de uma escola, ou seja,
+de chegar, sentar lá, abrir o lab e colocar para funcionar.
+ mas, veja, que isso não impede de que algo assim seja feito. mas,
+antes de pensarmos em termos práticos quero ressaltar algumas coisas do
+que vejo que fazem parte do processo educacional do metareciclagem:
+ 1. professores _______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+
+ uha!!!!!!!!!!
+
+ bela caminhada, amigo!
+ vc. não sabe como fico feliz de ler esse email...
+
+abs,
+dalton
+
+--- Erick Bento Dias Ferreira <erickbento-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+
+> Bom Galera
+> Pra quem não sabe ainda a Associação para o Desenvolvimento e
+> Pesquisa de Tecnologia da informação TECNOMETA é um projeto fruto do
+> metareciclagem que o objetivo principal é fazer com que todos aqui do
+> bairro e dos bairros vizinhos tenha acesso a tecnologia digital o
+> mais baixo custo possivel, fazendo isso com que as pessoas que
+> aprenderem em qualquer escolas, projetos e ate mesmo aqui venha
+> ultilizar dos recursos e particar no seu dia a dia o seu conhecimento
+> tornando assim o aprender mais interessante quando podemos demonstrar
+> o que se aprendeu dando mais vontade de aprender mais e mais.
+>  
+> estamos dando os primeiros passos para o projeto Tecnometa
+> tivemos hoje uma reunião onde definimos o estatudo, alguns documentos
+> e esclarecemos muitas duvidas.
+> e_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+ola povo do meta
+eu tenho uma caixa para gravador de CD externo que a gente ligava na porta 
+paralela
+dentro da caixa ia um gravador da HP de 2 velocidades,
+quando o gravador estragou , não gravava mais nem lia ai
+babou tudo
+tentei colocar outros cdr mas não funcionou, também por um hd la destro mas 
+não foi pra frente
+agrado resposta ou perguntas
+ok
+almir
+
+
+
+
+----- Original Message ----- 
+From: "Fredy Caviganto" <fredycfei-/E1597aS9LRfJ/NunPodnw@public.gmane.org>
+To: "Lista do projeto MetaReciclagem" <metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org>
+Sent: Sunday, August 07, 2005 8:34 PM
+Subject: [MetaReciclagem] Como Ligar o HD IDE na porta LPT ?
+
+
+Meu amigos alguem aqui sabe se existe algo no mercado
+q possa ligar o HD IDE normal pela portar da
+impressora?
+pois ja vi em uma revista de eletronica, algum tempo
+atras, em fazer uma placa q possa se comunicar o IDE
+com o LPT
+como eu nao tenho experiencia em eletronica nao
+saberia montar essa placa!
+gostaria de saber se algum ja viu algum _______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+Meu amigos alguem aqui sabe se existe algo no mercado
+q possa ligar o HD IDE normal pela portar da
+impressora?
+pois ja vi em uma revista de eletronica, algum tempo
+atras, em fazer uma placa q possa se comunicar o IDE
+com o LPT  
+como eu nao tenho experiencia em eletronica nao
+saberia montar essa placa!
+gostaria de saber se algum ja viu algum tipo desse
+equipamento ou sem tem como ligar o IDE no USB??
+Abraços
+Fredy
+
+
+__________________________________________________
+Converse com seus amigos em tempo real com o Yahoo! Messenger 
+http://br.download.yahoo.com/messenger/ 
+
+
+ vejo que metareciclagem tem sido também uma forma de experienciar essa
+educação alternativa.
+ acho que isso tudo aqui é uma baita forma de se aprender, trocar
+experiências usando mesclas de recursos de rede, presenciais, etc.
+ tem muita coisa aqui que ainda precisamos cavocar para ficar
+explícito....
+
+
+abs,
+dalton
+
+--- Marcelo Braz <mbraz4-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+
+> Interessante esta linha de pensamento, sendo
+> inovadora. Penso que a educação básica que temos hoje
+> na escola está muito fraca, gerando no aluno um
+> repertório não só tecnológico, mas principalmente
+> cultural muito fraco. O que não se pode ter medo é de
+> ousar, buscar modos novos de aprender<->ensinar.
+> 
+> Hoje li no jornal que a Unifesp, por ex., terá um
+> curso na área de saúde sem disciplinas. Ao invés do
+> tradicional, terá eixos temáticos e as aulas poderão
+> ser dadas por dois ou + professores. Na prática, penso
+> que uma atitude interessante é buscar quebrar mitos da
+> educação, esQueridos amigos,
+
+Hoje encontro com a Sandra e a Bete,elas já levaram até a secretaria da
+cultura do municipio o conceito metareciclagem,e a propia secretaria já
+ligou na escola pedindo para diretora oo projeto,hoje elas me encontram com
+a expectativa de que poderiamos usar a sala do colegio como um labmeta,ou
+seja os alunos da tarde usariam o lab de manhã e a turma da manhã a tarde e
+las que teriamos autonomia de uso deste espaço e por sua vez o launo tbem
+estaria fazendo uma escolha livre,eu estou chamndo a atenção delas de que
+como assunto tratado por uma sec. de educação dificilmente não teriamos o já
+conhecido marketing politico,gostaria muito de ter ajuda da lista de
+refletirmos a esporificação do meta dentro de uma situação desta.
+Regis (-:
+  
+  
+"Na personalidade do espírito livre,a energia flui desimpedida & portanto
+turbulenta,mas gentil- o seu caos encontra o seu estranho atrator,permitindo
+que novas ordens espontâneas surjam"_[Hakim Bey-no livro caos]
+                   
+ 
+on 5/8/05 18:11, Dalton Martins at dmartins_br-/E1597aS9LQAvxtiuMwx3w@public.gmane.org wrote:
+
+> 
+> sim e boa idéia.
+> precisamos pensar em como colocar em circulação pelos esporos os
+> metarecicleiros para apoiarem e orientarem algumas ações.
+> acho bastante interessante,..
+> 
+> abs,
+> dalton
+Dalton,
+Estamos acompanhando este tema.
+
+abs,
+
+Regis (-:
+  
+  
+"Na personalidade do espírito livre,a energia flui desimpedida & portanto
+turbulenta,mas gentil- o seu caos encontra o seu estranho atrator,permitindo
+que novas ordens espontâneas surjam"_[Hakim Bey-no livro caos]
+                   
+ 
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+==                                                                        ==
+==  CONTATOS--ICQ:25on 5/8/05 18:00, Dalton Martins at dmartins_br-/E1597aS9LQAvxtiuMwx3w@public.gmane.org wrote:
+
+> 
+> é isso!
+> simples, rápido e fácil...
+> :-))))
+
+Dalton,
+
+O assunto da escola publica esta aquecido com chegada de uma aliada que já
+tem mais de vinte anos de luta pela escola publica de qualidade no
+municipio.Hoje vai haver uma reunião a noite,estou meio inseguro na
+possibiladade de mantermos nossa filosofia dentro de uma instituição
+escolar,pelo que já tive de retorno na lista não tivemos uma experiencia
+meta nestes termos,ou já tivemos???se possivel gostaria de ouvi-lo neste
+tema.
+
+obrigado,
+
+
+Regis (-:
+  
+  
+"Na personalidade do espírito livre,a energia flui desimpedida & portanto
+turbulenta,mas gentil- o seu caos encontra o seu estranho atrator,permitindo
+que novas ordens espontâneas surjam"_[Hakim Bey-no livro caos]
+                   
+ 
+
+============================================================================
+==http://arraial.metareciclagem.org                                   Grande feju willians,
+
+refinar o processo que levou o pessoal da Sacadura
+Cabral a criar uma cooperativa, como uma trilha que
+possa ser percorrida parece ser bem interessante.
+Ainda, o fato de poder gerar sustentabilidade tem o
+potencial de trazer muitas pessoas para a causa
+metareciclenta.
+
+logo faço uma visita proceis, aih no mezanino ;-) e o
+canatto já voltou?
+
+abs
+marcbraz
+
+--- Fredy Caviganto <fredycfei-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+
+> Meu amigo Willians eu acho otimo isso!!!
+> Cara e a ideia q eu e vc tivemos la no parque
+> escola!!! lembra?
+> ta certo q agora ficou bem mais refinado da ideia
+> inicial q tivemos!!! rs...
+> Eu to dentro como antes e q eu puder ajudar estamos
+> ai!!! ta certo q tenho mais a aprender com vcs do q
+> outra coisa...rs
+> Como antes acho q assim todo mundo fica com um
+> patamar
+> mais alto e podendo ate contribuir mais para o
+> proprio
+> Meta e assim os esporos vao ter um pilar mais firme
+> para seus projetos!
+> Abraços
+> Fredy
+> 
+> Interessante esta linha de pensamento, sendo
+inovadora. Penso que a educação básica que temos hoje
+na escola está muito fraca, gerando no aluno um
+repertório não só tecnológico, mas principalmente
+cultural muito fraco. O que não se pode ter medo é de
+ousar, buscar modos novos de aprender<->ensinar.
+
+Hoje li no jornal que a Unifesp, por ex., terá um
+curso na área de saúde sem disciplinas. Ao invés do
+tradicional, terá eixos temáticos e as aulas poderão
+ser dadas por dois ou + professores. Na prática, penso
+que uma atitude interessante é buscar quebrar mitos da
+educação, escola aberta mesmo, open-source :)
+
+O que me frusta sempre nesta área é que vejo inúmeras
+pedagogias propostas, mas que colocadas em aplicação
+descambam com o tempo para velhas práticas
+tradicionais. Uma delas o conhecido giz e cuspe e
+aulas expositivas, ou ex-positivas :-))
+
+Como o Diego bem colocou, ao ensinar o sujeito estar
+receptivo para aprender é algo que pode trazer grande
+satisfação mútua.
+
+abs
+marcbraz
+
+
+--- "Meu amigo Willians eu acho otimo isso!!!
+Cara e a ideia q eu e vc tivemos la no parque
+escola!!! lembra?
+ta certo q agora ficou bem mais refinado da ideia
+inicial q tivemos!!! rs...
+Eu to dentro como antes e q eu puder ajudar estamos
+ai!!! ta certo q tenho mais a aprender com vcs do q
+outra coisa...rs
+Como antes acho q assim todo mundo fica com um patamar
+mais alto e podendo ate contribuir mais para o proprio
+Meta e assim os esporos vao ter um pilar mais firme
+para seus projetos!
+Abraços
+Fredy
+
+--- Willians Pedroso <willianspedroso-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org>
+escreveu:
+
+>  povo eu estava conversando com a galera que dá um
+> trampo aqui no
+> mesanino, e estamos pensando em fazer uma espécie de
+> treinamento para
+> as entidades(ou o povo dos pontos). tipo assim, essa
+> galera chega aqui
+> na caverna começa um curso de hardware, ai vai para
+> a parte de
+> eletrônica/conserto de monitores, depois disso cai
+> nas bancadas...
+> aqui começa a piranbeira... eles começam com tela
+>
+ sim e boa idéia.
+ precisamos pensar em como colocar em circulação pelos esporos os
+metarecicleiros para apoiarem e orientarem algumas ações.
+ acho bastante interessante,..
+
+abs,
+dalton
+
+--- Djair Guilherme <djair.jr-y7mWNqJcIDpfJ/NunPodnw@public.gmane.org> escreveu:
+
+> hehehe
+> 
+> Também sou apóstolo do caos.
+> 
+> A idéia de orientar presencialmente não vale no caso de acompanhar o 
+> Régis, por exemplo.
+> Mas pode ser uma boa ir para lá e ficar um ou dois meses com o cara, 
+> ajudando-o a chegar a mais pessoas e armar a rede com pessoas que lá 
+> estão. Depois acompanhamos à distância.
+> 
+> No MH fazemos dessa forma. Se eu contacto alguém num outro estado e o
+> 
+> nego está interessado em armar uma estrutura, depois que o cara
+> começa a 
+> agir sozinho, vai um grupo de três pessoas quando possível (a tríade)
+> , 
+> ou apenas o sujeito que está orientando a coisa. Ficamos algum tempo
+> com 
+> o cara até que a rede dele esteja armada. Depois voltamos e vamos 
+> orientando à distância
+ meu comentário: comecem já!
+ :-)))
+
+abs,
+dalton
+
+--- Willians Pedroso <willianspedroso-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+
+>  povo eu estava conversando com a galera que dá um trampo aqui no
+> mesanino, e estamos pensando em fazer uma espécie de treinamento para
+> as entidades(ou o povo dos pontos). tipo assim, essa galera chega
+> aqui
+> na caverna começa um curso de hardware, ai vai para a parte de
+> eletrônica/conserto de monitores, depois disso cai nas bancadas...
+> aqui começa a piranbeira... eles começam com tela preta modulo 1 (que
+> seria a introdução), depois vai para a instalação de S.O, entra em
+> tela preta modulo 2 (que vai ser instalação de softwares), passa para
+> a configuração do sistema operacional, depois disso entra em rede...
+> começando pela parte teorica... passa para o cabeamento... e vai até
+> chegar em configuração de rede... ensinar como configurar alguns
+> serviço em linux (dhcp, ftp, tftp, samba, apache, nfs.... ah sei lah)
+> isso pode ser 
+ é isso!
+ simples, rápido e fácil...
+ :-))))
+
+--- regis <regis-fTvznGFZLYfQT0dZR+AlfA@public.gmane.org> escreveu:
+
+> Pessoal,
+> 
+> Hoje fui nadar neste mar do paraiso,faço isto no minimo tres vezes
+> por
+> semana,hoje estava com o Daniel que é parceiro nesta rotina,ele é um
+> hacker
+> na marcenaria o cara faz qualquer coisa com a madeira e ele é
+> apaixonado por
+> skate,ao 45 anos anda de skate como um garoto,ele fala de sakate e eu
+> falo
+> de metareciclagem e hoje ele me participou que depois de tentar todo
+> tipo de
+> apoio possivel para montar uma pista de skate para a comunidade sem
+> ter
+> retorno nenhum,paratiu para o faça vc mesmo do jargão hacker,construi
+> no seu
+> propio quintal uma mini-pista(o cara domina a tecnologia)e o
+> resultado disto
+> é que ele agora esta reunindo todo a sexta feira uma galera de
+> replicantes
+> de diferentes bairos para praticar a politica do tenha uma mini rampa
+> no seu
+> quintal e chaame seus amigos mais proximos-achei deamis e acho que
+> ele mon 5/8/05 14:57, josé milton silva ferreira milton at trilhagem-/E1597aS9LSHPF1N2DINCQ@public.gmane.orgr
+wrote:
+
+> 
+> e alem das capacitaçês ganhemos esses computadores
+> para     
+> o tele centro a onde vai quebrar com essas locadoras
+> de computadores daqui.e levar a alta informação para
+> periferia que é o fundamental.
+> 
+> BILL
+> TERESINA
+> 
+Grande trabalho,isto vai replicar,nois aqui da bahia estamos na
+atividade,ainda denpendemos de um espaço,mais logo vai estar rolando.
+abs
+Regis (-:
+  
+  
+"Na personalidade do espírito livre,a energia flui desimpedida & portanto
+turbulenta,mas gentil- o seu caos encontra o seu estranho atrator,permitindo
+que novas ordens espontâneas surjam"_[Hakim Bey-no livro caos]
+                   
+ 
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriaç
+  e alem das capacitaçês ganhemos esses computadores
+para     
+  o tele centro a onde vai quebrar com essas locadoras
+de computadores daqui.e levar a alta informação para
+periferia que é o fundamental.
+
+BILL
+TERESINA
+
+
+
+__________________________________________________
+Converse com seus amigos em tempo real com o Yahoo! Messenger 
+http://br.download.yahoo.com/messenger/ 
+
+Ainda não rolou um esporo que crescesse
+de uma gema independente. Existem possibilidades
+nesse sentido, mas até por nossa deficiência na
+documentação, aqueles que querem fazer isso
+acabam meio na orfandade.
+
+f
+
+Em 05/08/05, Fernando Henrique<xsl4v3-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+> 
+>  
+> > rá. installfest?? e de onde viriam as máquinas?
+> 
+>  
+>  Não sei, o povo do sarai tá centralizando a organização do evento e eles
+> nao falam muito.
+>  Lembro que a primeira tentativa foi com a embaixada italiana....
+>  Os caras são muito certinhos e em certo ponto institucionais demais...
+> pensar lowtech é dificil, parece que eles tem tudo sempre a mão.
+>  
+>  
+> > pô, não foi tudo assim? galpão gerou parque escola e juntos geraram
+> mezanino. 
+> > 
+> > parque escola gerou informeta e metainfo. ruiz passou pelo olido e gerou
+> > o IP. pixel passou por sampa e hoje tá tentando montar eco em salvador... 
+> > dalton fez oficina em teresina e o pessoal se apropriou, agora vai
+> conAi..Tivemos a capacitação do cultura digital aqui em
+teresina no Piauí..e o a parada de metareciclagem vai
+continuar..o pessoal já montando com a ajuda do dalton
+e ananias uma cooperativa aqui em teresina..pois já
+tinha uma ideia de cooperativa de grafiteiros e
+serigrafia...e o pessoal trampou em parceria.na
+pintura dos monitortes e gabinetes e tb na grafitagem
+das salas ...acho louca a ideia da capacitação..pois
+aqui o trampo do cultura digital..foi muito bom..mais
+quanto mais capacitação pro pessoal ,melhor..
+
+GIL BV
+MHHOB
+
+
+--- Djair Guilherme <djair.jr-y7mWNqJcIDpfJ/NunPodnw@public.gmane.org> escreveu:
+
+> Tô dentro.
+> 
+> Estou com cinco monitores fudidos e quero consertar
+> os bichos.
+> Acho bacana a idéia.
+> 
+> Abraço
+> 
+> Djair
+> 
+> Willians Pedroso wrote:
+> 
+> > povo eu estava conversando com a galera que dá um
+> trampo aqui no
+> >mesanino, e estamos pensando em fazer uma espécie
+> de treinamento para
+> >as entidades(ou o povo dos pontos). tipo assim,
+> essa galera chega aqui
+> _______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+Tô dentro.
+
+Estou com cinco monitores fudidos e quero consertar os bichos.
+Acho bacana a idéia.
+
+Abraço
+
+Djair
+
+Willians Pedroso wrote:
+
+> povo eu estava conversando com a galera que dá um trampo aqui no
+>mesanino, e estamos pensando em fazer uma espécie de treinamento para
+>as entidades(ou o povo dos pontos). tipo assim, essa galera chega aqui
+>na caverna começa um curso de hardware, ai vai para a parte de
+>eletrônica/conserto de monitores, depois disso cai nas bancadas...
+>aqui começa a piranbeira... eles começam com tela preta modulo 1 (que
+>seria a introdução), depois vai para a instalação de S.O, entra em
+>tela preta modulo 2 (que vai ser instalação de softwares), passa para
+>a configuração do sistema operacional, depois disso entra em rede...
+>começando pela parte teorica... passa para o cabeamento... e vai até
+>chegar em configuração de rede... ensinar como configurar alguns
+>serviço em linux (dhcp, ftp, tftp, samba, apache, nfs.... ah sei lah)
+>isso pode ser tela preta modulo 3Pessoal,
+
+Hoje fui nadar neste mar do paraiso,faço isto no minimo tres vezes por
+semana,hoje estava com o Daniel que é parceiro nesta rotina,ele é um hacker
+na marcenaria o cara faz qualquer coisa com a madeira e ele é apaixonado por
+skate,ao 45 anos anda de skate como um garoto,ele fala de sakate e eu falo
+de metareciclagem e hoje ele me participou que depois de tentar todo tipo de
+apoio possivel para montar uma pista de skate para a comunidade sem ter
+retorno nenhum,paratiu para o faça vc mesmo do jargão hacker,construi no seu
+propio quintal uma mini-pista(o cara domina a tecnologia)e o resultado disto
+é que ele agora esta reunindo todo a sexta feira uma galera de replicantes
+de diferentes bairos para praticar a politica do tenha uma mini rampa no seu
+quintal e chaame seus amigos mais proximos-achei deamis e acho que ele meu
+deu um lampejo que já é mais do que hora do regis começar uma pratica do
+meta-softlivre aqui mesmo no meu quintal,tenho um canto do meu studio e um
+cabo de rede Hi,metasmente.
+
+Quem tiver oportunidade leia:o livro,
+
+CaOS- a criação de uma nova ciencia-James Gleick-editora campos.
+Regis (-:
+  
+  
+"O Universo é uma rua de mão única"
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+==                                                                        ==
+==  CONTATOS--ICQ:259988635 #MSN:regisbailux3-PkbjNfxxIARBDgjK7y7TUQ@public.gmane.org                 ==
+==                                                                        ==
+============================================================================
+
+ povo eu estava conversando com a galera que dá um trampo aqui no
+mesanino, e estamos pensando em fazer uma espécie de treinamento para
+as entidades(ou o povo dos pontos). tipo assim, essa galera chega aqui
+na caverna começa um curso de hardware, ai vai para a parte de
+eletrônica/conserto de monitores, depois disso cai nas bancadas...
+aqui começa a piranbeira... eles começam com tela preta modulo 1 (que
+seria a introdução), depois vai para a instalação de S.O, entra em
+tela preta modulo 2 (que vai ser instalação de softwares), passa para
+a configuração do sistema operacional, depois disso entra em rede...
+começando pela parte teorica... passa para o cabeamento... e vai até
+chegar em configuração de rede... ensinar como configurar alguns
+serviço em linux (dhcp, ftp, tftp, samba, apache, nfs.... ah sei lah)
+isso pode ser tela preta modulo 3...,  quando terminar isso ir para o
+ltsp.
+ é isso que eu queria ver se conseguimos fazer aqui... 
+ comentem e deêm sugestões, estou esperando... 
+ acola
+tem isso tbm
+http://wiki.whatthehack.org/index.php/Estudiolivre
+
+e o video ai
+http://wiki.whatthehack.org/index.php/Track:Estudiolivre
+
+[]'s
+Ian
+
+
+
+disse  --> Marcelo Braz
+> vissem isto?
+>
+> http://wiki.whatthehack.org/index.php/How_we_hacked_a_project_into_the_Ministry_of_Culture_in_Brazil
+>
+> mbraz
+>
+>
+>
+>
+>
+> _______________________________________________________
+> Yahoo! Acesso Grátis - Internet rápida e grátis.
+> Instale o discador agora! http://br.acesso.yahoo.com/
+> _______________________________________________
+> Metarec mailing list
+> Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+> http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+>
+
+
+-- 
+            .''`.
+           : :'  :
+           `. `'`
+             `- Cultura não é sabonete. Cultura não é a mesma coisa q uma bolsa ou um
+carro. Cultura não deve ser mercadoria.
+
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+Legal, Diego.
+
+E como se processa a pedagogia da diversidade na prática?
+
+f
+
+Em 04/08/05, Diego C. Chaves<diego2caldas-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+> 
+> 
+> Dentro do Movimento, no Chile, um grupo de educadores criou o que chamamos
+> de pedagogia da diversidade, é bem interessante, é fundamentado nos
+> conceitos da Psicologia da Imagem, também desenvolvida pelo povo do Novo
+> Humanismo. 
+> 
+> Eu andei estudando um pouco, pois estou tentando estruturar uma comissão de
+> educadores em uma ONG que o movimento fundou, e também pq desenvolvo um
+> trabalho com cursinhos comunitários. 
+> 
+> A idéia central é que cada pessoa tem uma coisa chamada Paisagem de
+> Formação, que é aquilo onde ela foi criada, as experiências que ela teve, a
+> maneira como ela integrou estas experiências, ou seja, está ligado ao
+> passado da pessoa. 
+> 
+> Considera-se que todas as pessoas quando chegam à escola, ou a um curso tem
+> uma paisagem diferente. 
+> 
+> Outros dois conceitos que se trabalaqui em teresina vimos isso bem forte!..
+quem nos ajudou na oficina de meta foi a galera que participou do
+primeiro treinamento.
+
+fernando, acho que vale tanto tecnologizar mais o sarai como
+conceituar mais o meta, entendo que esse intercâmbio deve gerar isso.
+gostaria de saber as reflexões de vcs quanto ao material que mandamos
+sobre os diferentes esporos por exemplo //
+
+x beijos!
+t
+
+On 8/4/05, Alexandre Freire <alex-MVIeIfBgcJg39yzSjRtAkw@public.gmane.org> wrote:
+> 
+> SEIS PAU!
+> 
+> mancha e pokemom, vao cuidar bem desse esporo e ja estao ensinando
+> metareciclagem pra galera!
+> chegaram mais 130 computadores!
+> aaaaa muleque.
+> 
+> pô, não foi tudo assim? galpão gerou parque escola e juntos geraram
+> mezanino.
+> parque escola gerou informeta e metainfo. ruiz passou pelo olido e gerou 
+> o IP. pixel passou por sampa e hoje tá tentando montar eco em salvador...
+> dalton fez oficina em teresina e o pessoal se apropriou, agora vai continuar
+> sem a presença de nenhum de nós...
+> fisica pon 4/8/05 15:17, Djair Guilherme at djair.jr-y7mWNqJcIDpfJ/NunPodnw@public.gmane.org wrote:
+
+> hehehe
+> 
+> Também sou apóstolo do caos.
+> 
+> A idéia de orientar presencialmente não vale no caso de acompanhar o
+> Régis, por exemplo.
+> Mas pode ser uma boa ir para lá e ficar um ou dois meses com o cara,
+> ajudando-o a chegar a mais pessoas e armar a rede com pessoas que lá
+> estão. Depois acompanhamos à distância.
+
+No nosso caso,tenho trabalhado na divulgação do metareciclagem,aqui mesmo do
+meu studio,colocamos uma placa bailux no portão e até o Pedro que tem 10
+anos já fala de metareciclagem na escola,tenho mantido um interesse de um
+grupo de pessoas da comunidade atraves do site que eu mesmo construir
+estudando html basico sozinho,temos o mestre Railson que vem se mostrando
+acessivel a filosofia do puxadinho,temos a professora sandra e Bete na
+escola publica que chegaram agora com muita vontade e um longo curriculo de
+luta,temos o Leo que é professor universitario e tem estado acompanh_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+hehehe
+
+Também sou apóstolo do caos.
+
+A idéia de orientar presencialmente não vale no caso de acompanhar o 
+Régis, por exemplo.
+Mas pode ser uma boa ir para lá e ficar um ou dois meses com o cara, 
+ajudando-o a chegar a mais pessoas e armar a rede com pessoas que lá 
+estão. Depois acompanhamos à distância.
+
+No MH fazemos dessa forma. Se eu contacto alguém num outro estado e o 
+nego está interessado em armar uma estrutura, depois que o cara começa a 
+agir sozinho, vai um grupo de três pessoas quando possível (a tríade) , 
+ou apenas o sujeito que está orientando a coisa. Ficamos algum tempo com 
+o cara até que a rede dele esteja armada. Depois voltamos e vamos 
+orientando à distância. Uma vez a cada semestre, cada orientador arma 
+uma reunião onde se consensua qual o plano daquele conselho e aí seguimos.
+
+POde ser uma idéia?
+
+Abraço
+
+Djair
+
+lista nos techs, conversê nos produtores!
+
+f
+
+Em 03/08/05, Felipe Fonseca<felipefonseca-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+> Em 03/08/05, Fernando Henrique<xsl4v3-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+> 
+> >  Uma coisa que no meta funciona bem é o lance da transmissão de conhecimento
+> > por osmose, nos CM só rola coisas muito básicas, o suficiente pro cara
+> > publicar seus textos. Então perguntaram o que fazer com esses que sabem mais
+> > para que eles se tornem difusores de conhecimento ... não tive uma resposta,
+> > espero ajuda de vcs ai. No meta a coisa é tão natural que nunca prestei
+> > atenção como as pessoas se tornam clientes P2P de conhecimento.
+> 
+> pois é, mas isso funciona bem em sampa. discutir como fazer pra
+> levar isso pra outros esporos é a idéia aqui:
+> http://xango.metareciclagem.org/wiki/index.php/ProcessoReplicacao
+> 
+> > haverá um grande evento onde pessoas da comunidade de DakshinPuri
+> > participarão de um multirãozão de reciclageEm 04/08/05, Djair Guilherme<djair.jr-y7mWNqJcIDpfJ/NunPodnw@public.gmane.org> escreveu:
+
+> Também rola a gente começar a agitar um material informando sobre a
+> metodologia e sobre alguns comprometimentos que os esporos precisariam
+> ter com o conceito. Como sempre, vou citar o MH: "Faço algo a você para
+> que você faça a outros". Isso já coloca o nego em situação de compartilhar.
+
+Sim. A idéia é definir um grupo de comprometimentos, simples,
+coerentes, que validam qualquer instância a se chamar de esporo.
+Replicar conhecimento, trabalhar com software livre, buscar a
+transformação social através da re-apropriação de tecnologia,
+desmistificando-a, podem ser alguns deles.
+ 
+> Ter um espaço virtual (como esse) para discutir o que estamos fazendo é
+> mais produtivo que um curso on-line.
+
+Em alguns casos, e pra algumas pessoas, sim. 
+Mas não perdemos nada flexibilizando a linguagem
+pra quem não gosta de listas...
+
+> O ideal é uma orientação
+> presencial, no início;
+
+Mas, por exemplo, não é_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+Alguns "Acho que..."
+
+Também rola a gente começar a agitar um material informando sobre a 
+metodologia e sobre alguns comprometimentos que os esporos precisariam 
+ter com o conceito. Como sempre, vou citar o MH: "Faço algo a você para 
+que você faça a outros". Isso já coloca o nego em situação de compartilhar.
+
+Ter um espaço virtual (como esse) para discutir o que estamos fazendo é 
+mais produtivo que um curso on-line. O ideal é uma orientação 
+presencial, no início; um acompanhamento dos processos; a informação da 
+existência deste canal virtual; conseguir o comprometimento de difusão 
+do conhecimento e da informação através destes canais.
+
+A metodologia de um roadshow pode acabar colocando o sujeito em situação 
+de espectador do meta. Isso não é bom, porque pode reforçar o 
+clientelismo. Deveríamos nos aprofundar em colocar as pessoas em 
+situação de resolver os problemas quando resolvem metareciclar algo. Nós 
+temos uma capacidade de trabalho monstruosa, e conseguimos colocar estas 
+Pessoal,nois do bailux estamos atento a este topico do Marcbraz:
+
+ Em escolas municipais esta situação de abrir a escola
+> fora do horário escolar ainda está começando. Mas
+> geralmente elas têm mais flexibilidade com projetos
+> inovadores.
+
+Me parece que dentro de uma situação como esta estariamos mais proximos de
+uma ação metarecicleira.
+
+> O que as escolas sempre pedem na forma burrocrática,
+> é algo misterioso chamado projeto pedagógico, que é um
+> jargão que os professores estão acostumados usar.
+> Outra coisa, trabalhar com uma faixa etária muito
+> jovem é mais complexo. Eles são mais dispersivos e é
+> preciso já ter conhecimento e experiência com essa
+> mulecadinha, para não ser frustante o resultado.
+> 
+Acho que nesta pespectiva seria bem dificil realizar algo mais aberto e
+rizomatico(-:
+
+> Podemos tentar elaborar algo de modo coletivo, sim.
+> Vamos conversando...
+
+Nois do bailux precisamos fazer rolar uma pratica metarecicleira,sinalizar
+para a comunidade que temos um esporo Pessoal,
+
+acho que este caminho pode ser um grande incentivo para nois que estamos
+distantes de um grande centro.
+
+1.    Curso online de gestão de um esporo metareciclento
+2.    Workshop presencial itinerante - roadshow metareciclento
+3.    Intercâmbios e residências entre integrantes de diferentes esporos
+Retirado de 
+"http://xango.metareciclagem.org/wiki/index.php/ProcessoReplicacao"
+
+
+
+Gostaria de compartilhar principalmente do intem:3.    Intercâmbios e
+residências entre integrantes de diferentes esporos.....temos muito a
+oferecer neste intem especifico.
+Regis (-:
+  
+  
+"O Universo é uma rua de mão única"
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+==                                                                        on 3/8/05 17:40, Felipe Fonseca at felipefonseca-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org wrote:
+
+> Fruto inicial de uma conversa com o Marc Braz hoje:
+> http://xango.metareciclagem.org/wiki/index.php/ProcessoReplicacao
+Hei,meta,
+
+gostei muito deste assunto e faz falta por aqui estas info.
+vamo adinate neste tema.....valeu!!!!!!
+Regis (-:
+  
+  
+"O Universo é uma rua de mão única"
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+==                                                                        ==
+==  CONTATOS--ICQ:259988635 #MSN:regisbailux3-PkbjNfxxIARBDgjK7y7TUQ@public.gmane.org                 ==
+==                                                                        ==
+==================================================on 4/8/05 00:30, Felipe Fonseca at felipefonseca-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org wrote:
+
+> ou até talvez caiba aqui:
+> http://xango.metareciclagem.org/wiki/index.php/ProcessoReplicacao
+> 
+> f
+> 
+> Em 04/08/05, Felipe Fonseca<felipefonseca-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+>> eu acho que wiki.
+>> 
+>> cria linque nessa
+>> 
+>> wiki.metareciclagem.org/index.php/Pesquisa
+>> 
+>> e vqv
+>> 
+>> f
+>> 
+>> Em 03/08/05, Marcelo Braz<mbraz4-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+>>> yeah
+>>> 
+>>> Como faremos, wiki? Podemos já ir traçando as linhas
+>>> mestras da proposta, que tal?
+>>> 
+>>> Outra coisa é que o meta, pelo que sei, ainda não
+>>> atuou em escolas diretamente, mas muita coisa que é
+>>> feita pelos metarecicleiros passa pelo trinômio:
+>>> ensino_aprendizagem_replicação. Meta atua em várias
+>>> frentes, penso eu. Configura-se multifacetado. Como
+>>> Hernani comentou o processo de falar somente para
+>>> dentro do projeto, conflita com as tentivas de
+>>>on 3/8/05 21:47, Marcelo Braz at mbraz4-/E1597aS9LRfJ/NunPodnw@public.gmane.org wrote:
+
+> Regis e Djair,
+> 
+> Atuei quase seis meses no projeto Escola da Família
+> como voluntário, ensinando "história da tecnologia e
+> uso de processadores de texto". Este projeto, da sec.
+> estadual de educacao tenta liberar a escola para que a
+> comunidade a reaproprie, no formato de atividades
+> variadas de voluntários e de universitários. Há
+> algumas experiências bem interessantes, isto quando a
+> comunidade escolar do entorno já possuía uma sintonia
+> fina com a escola. Mas como o Djair mencionou, muitas
+> vezes o universitário só está interessado na bolsa que
+> o gov. paga e fica enrolando na maior parte do tempo.
+> O troço é muito grandioso e cheio de intenções
+> políticas, já que pretendem lançar o secretário como
+> candidato a governador.
+> 
+> Em escolas municipais esta situação de abrir a escola
+> fora do horário escolar ainda está começando. Mas
+> geralmente elas têm mais flexibilidade com pvissem isto?
+
+http://wiki.whatthehack.org/index.php/How_we_hacked_a_project_into_the_Ministry_of_Culture_in_Brazil
+
+mbraz
+
+
+	
+	
+		
+_______________________________________________________ 
+Yahoo! Acesso Grátis - Internet rápida e grátis. 
+Instale o discador agora! http://br.acesso.yahoo.com/
+
+eu acho que wiki.
+
+cria linque nessa
+
+wiki.metareciclagem.org/index.php/Pesquisa
+
+e vqv
+
+f
+
+Em 03/08/05, Marcelo Braz<mbraz4-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+> yeah
+> 
+> Como faremos, wiki? Podemos já ir traçando as linhas
+> mestras da proposta, que tal?
+> 
+>  Outra coisa é que o meta, pelo que sei, ainda não
+> atuou em escolas diretamente, mas muita coisa que é
+> feita pelos metarecicleiros passa pelo trinômio:
+> ensino_aprendizagem_replicação. Meta atua em várias
+> frentes, penso eu. Configura-se multifacetado. Como
+> Hernani comentou o processo de falar somente para
+> dentro do projeto, conflita com as tentivas de
+> replicação. Não que se queira criar um modelo
+> padrãozão para vender por aih, mas há fases na
+> evolução histórica do meta de maior estabilidade e
+> consistência nas propostas. Neste momento, penso ser
+> vantajoso replicar-se esporificando.
+> 
+> Daltaon tem experiência acadêmica e tecnológica do
+> processo, salve mestre! E pode ajudar, ov_course!,
+> paou até talvez caiba aqui:
+http://xango.metareciclagem.org/wiki/index.php/ProcessoReplicacao
+
+f
+
+Em 04/08/05, Felipe Fonseca<felipefonseca-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+> eu acho que wiki.
+> 
+> cria linque nessa
+> 
+> wiki.metareciclagem.org/index.php/Pesquisa
+> 
+> e vqv
+> 
+> f
+> 
+> Em 03/08/05, Marcelo Braz<mbraz4-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+> > yeah
+> >
+> > Como faremos, wiki? Podemos já ir traçando as linhas
+> > mestras da proposta, que tal?
+> >
+> >  Outra coisa é que o meta, pelo que sei, ainda não
+> > atuou em escolas diretamente, mas muita coisa que é
+> > feita pelos metarecicleiros passa pelo trinômio:
+> > ensino_aprendizagem_replicação. Meta atua em várias
+> > frentes, penso eu. Configura-se multifacetado. Como
+> > Hernani comentou o processo de falar somente para
+> > dentro do projeto, conflita com as tentivas de
+> > replicação. Não que se queira criar um modelo
+> > padrãozão para vender por aih, mas há fases na
+> > evolução histórica yeah
+
+Como faremos, wiki? Podemos já ir traçando as linhas
+mestras da proposta, que tal?
+
+ Outra coisa é que o meta, pelo que sei, ainda não
+atuou em escolas diretamente, mas muita coisa que é
+feita pelos metarecicleiros passa pelo trinômio:
+ensino_aprendizagem_replicação. Meta atua em várias
+frentes, penso eu. Configura-se multifacetado. Como
+Hernani comentou o processo de falar somente para
+dentro do projeto, conflita com as tentivas de
+replicação. Não que se queira criar um modelo
+padrãozão para vender por aih, mas há fases na
+evolução histórica do meta de maior estabilidade e
+consistência nas propostas. Neste momento, penso ser
+vantajoso replicar-se esporificando.
+
+Daltaon tem experiência acadêmica e tecnológica do
+processo, salve mestre! E pode ajudar, ov_course!,
+para dar um passo além nas questoes conceituais e
+alternativas. Algo como akademia, academidéia,
+ackademia; papos conceituais já rolaram por aki. 
+
+
+
+qéq cês acham disso tudo?
+
+mbraz
+
+--- ellyguevara-Re5JQEeQqe8AvxtiuMwxRegis e Djair,
+
+ Atuei quase seis meses no projeto Escola da Família
+como voluntário, ensinando "história da tecnologia e
+uso de processadores de texto". Este projeto, da sec.
+estadual de educacao tenta liberar a escola para que a
+comunidade a reaproprie, no formato de atividades
+variadas de voluntários e de universitários. Há
+algumas experiências bem interessantes, isto quando a
+comunidade escolar do entorno já possuía uma sintonia
+fina com a escola. Mas como o Djair mencionou, muitas
+vezes o universitário só está interessado na bolsa que
+o gov. paga e fica enrolando na maior parte do tempo.
+O troço é muito grandioso e cheio de intenções
+políticas, já que pretendem lançar o secretário como
+candidato a governador. 
+
+ Em escolas municipais esta situação de abrir a escola
+fora do horário escolar ainda está começando. Mas
+geralmente elas têm mais flexibilidade com projetos
+inovadores.
+
+ O que as escolas sempre pedem na forma burrocrática,
+é algo misterioso chamado projeto pedagógico, que Em 03/08/05, Fernando Henrique<xsl4v3-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+
+>  Uma coisa que no meta funciona bem é o lance da transmissão de conhecimento
+> por osmose, nos CM só rola coisas muito básicas, o suficiente pro cara
+> publicar seus textos. Então perguntaram o que fazer com esses que sabem mais
+> para que eles se tornem difusores de conhecimento ... não tive uma resposta,
+> espero ajuda de vcs ai. No meta a coisa é tão natural que nunca prestei
+> atenção como as pessoas se tornam clientes P2P de conhecimento.
+
+pois é, mas isso funciona bem em sampa. discutir como fazer pra
+levar isso pra outros esporos é a idéia aqui:
+http://xango.metareciclagem.org/wiki/index.php/ProcessoReplicacao
+
+> haverá um grande evento onde pessoas da comunidade de DakshinPuri
+> participarão de um multirãozão de reciclagem de micros. Bom, é isso que eles
+> querem.
+
+rá. installfest?? e de onde viriam as máquinas?
+
+> chutar os caras em três lugares diferentes pra ficha cair. Seria bom ter
+Fruto inicial de uma conversa com o Marc Braz hoje:
+http://xango.metareciclagem.org/wiki/index.php/ProcessoReplicacao
+
+-- 
+FelipeFonseca
+http://fff.hipercortex.com
+
+fala, feju.
+
+representando forte o mezanino. força pra nós.
+
+terça tamo nessa reunião.
+
+f
+
+Em 03/08/05, Willians Pedroso<willianspedroso-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+> to falando que vc é ducaralho...
+> 
+> 
+> feju
+> 
+> On 8/3/05, Hernani Dimantas <hdimantas-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> wrote:
+> > cara é isso aí... acho que fazemos 'alguma coisa' de forma diferente...
+> >
+> > hahauhauahuahuahuhauuauhaauhauahuahu como o xsl4v3 fala quem é do meta
+> > é aqueles que aparecem na midia hauhauhauah brincadeirinha mais ele
+> > fala isso mesmo hauhauahuaha
+> >
+> > que nada... isso é humildade do velho slave. quem faz o meta é quem
+> > sabe fazer essa 'alguma coisa', coisas de artesão da tech. isso o
+> > slave faz muito bem. falando nele, caraca, o cara tá aprontando umas
+> > coisas legais lá na india. acho que tudo que ele e a bia estão fazendo
+> > lá nos cybermohallas pode ser experimentado no olido e noutros
+> > esporos.
+> > midia é só baba de moça. tvz precivamuqvamu, marcbraz, regis e educadoras revolucionárias do arraial!!!
+
+On 8/27/56, regis <regis-fTvznGFZLYfQT0dZR+AlfA@public.gmane.org> wrote:
+> hei braz,
+> 
+> Estou começando um contato com duas professora muito especiais e que estão
+> na luta a muito tempo,vou precisar da lista para me ajudar a dar forma ao
+> metabahia-arraial.hoje elas visitaram uma sala da escola um lab que foi
+> montado só para tirar foto.ficaram seo as tomadas.
+> Regis (-:
+> 
+> 
+> "O Universo é uma rua de mão única"
+> 
+> ============================================================================
+> ==http://arraial.metareciclagem.org                                       ==
+> ==  http://www.bailux.com                                                 ==
+> ==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+> ==                                                                        ==
+> ==  CONTATOS--ICQ:259988635 #MSN:regisbailux3-PkbjNfxxIARBDgjK7y7TUQ@public.gmane.org                 ==
+Regis,
+topo pensar o projeto e escrevê-lo à várias mãos virtuais c/ vcs. Tb
+estou para escrever um metaprojeto para a atuação de uma universidade
+de santoandré, a FSA na área da educação. Dalton tb tá acompanhando o
+lance. Mais uma vez convoco marcbraz, q tem muita idéia boa nessa
+área. Qdo começamos???
+
+
+bjins,
+
+Elly Guevara!
+
+On 8/27/56, regis <regis-fTvznGFZLYfQT0dZR+AlfA@public.gmane.org> wrote:
+> Pessaol,
+> 
+> acabei de estar com a Sandra e ela esta empolgadissima.esteve com a diretora
+> e o pessoal ficou aberto ao tem do metareciclagem,pediu um documento do que
+> queremos na escola para ser enviado a secretaria de educação do municipio
+> para autorizacao,gostaria de estar contactando o meta que já fazem algum
+> trabalho em escolas(Elly guevara----- help!!!!(bom depois dou mais detlhes
+> ddeste contacto.sinto que agora temos nossa triade por aqui.
+> 
+> Regis (-:
+> 
+> 
+> "O Universo é uma rua de mão única"
+> 
+> =======================================================================to falando que vc é ducaralho...
+
+
+feju
+
+On 8/3/05, Hernani Dimantas <hdimantas-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> wrote:
+> cara é isso aí... acho que fazemos 'alguma coisa' de forma diferente...
+> 
+> hahauhauahuahuahuhauuauhaauhauahuahu como o xsl4v3 fala quem é do meta
+> é aqueles que aparecem na midia hauhauhauah brincadeirinha mais ele
+> fala isso mesmo hauhauahuaha
+> 
+> que nada... isso é humildade do velho slave. quem faz o meta é quem
+> sabe fazer essa 'alguma coisa', coisas de artesão da tech. isso o
+> slave faz muito bem. falando nele, caraca, o cara tá aprontando umas
+> coisas legais lá na india. acho que tudo que ele e a bia estão fazendo
+> lá nos cybermohallas pode ser experimentado no olido e noutros
+> esporos.
+> midia é só baba de moça. tvz precisamos da midia para interferir na
+> música monotona dos neguinhos que pensam em politicas sociais, tvz
+> precisamos da midia para catalisar o dialogo com governo, academia,
+> empresas, etc. acho q precisamos melhorar a formaRégis
+
+No MH costumamos desenvolver atividades em escolas, através de uma 
+parceria com o escola da família.
+Creio eu que esse projeto só existe em Sampa, porque é coisa do governo 
+daqui.
+É uma galera de universidade que recebe uma bolsa do governo para tocar 
+atividades nas escolas nos finais de semana. Acaba que os negos não 
+fazem nada, na maior parte dos casos, e ficam felizes se a gente vai lá 
+e faz alguma coisa.
+
+Dê uma olhada se existe algo assim por aí. Isso facilita muito a coisa 
+burocrática.
+
+Abraço
+
+Djair
+
+regis wrote:
+
+>Pessoal,
+>
+>Ontem estive com a professora Sandra,ela falou com a diretora,conheceu a
+>sala onde funcionaria um lab de informatica-ficaram só as tomadas e entulhos
+>na sala,ela disse que a diretora precisa de de um documento do bailux
+>dizendo o que seria as oficinas do metareciclagem dentro da escola e ela
+>mandaria este documento para sec. de educação do municipio para eles
+>aprovarem,a escola tem 1.500 alunos de ensino medio,outra questão que ela
+>levancara é isso aí... acho que fazemos 'alguma coisa' de forma diferente... 
+
+hahauhauahuahuahuhauuauhaauhauahuahu como o xsl4v3 fala quem é do meta
+é aqueles que aparecem na midia hauhauhauah brincadeirinha mais ele
+fala isso mesmo hauhauahuaha
+
+que nada... isso é humildade do velho slave. quem faz o meta é quem
+sabe fazer essa 'alguma coisa', coisas de artesão da tech. isso o
+slave faz muito bem. falando nele, caraca, o cara tá aprontando umas
+coisas legais lá na india. acho que tudo que ele e a bia estão fazendo
+lá nos cybermohallas pode ser experimentado no olido e noutros
+esporos.
+midia é só baba de moça. tvz precisamos da midia para interferir na
+música monotona dos neguinhos que pensam em politicas sociais, tvz
+precisamos da midia para catalisar o dialogo com governo, academia,
+empresas, etc. acho q precisamos melhorar a forma do meta se comunicar
+com a sociedade. nossos sites falam somente para dentro do projeto.
+tvz precisassemos falar a lingua do povo babaquara para deixar mais
+cPessoal,
+
+Ontem estive com a professora Sandra,ela falou com a diretora,conheceu a
+sala onde funcionaria um lab de informatica-ficaram só as tomadas e entulhos
+na sala,ela disse que a diretora precisa de de um documento do bailux
+dizendo o que seria as oficinas do metareciclagem dentro da escola e ela
+mandaria este documento para sec. de educação do municipio para eles
+aprovarem,a escola tem 1.500 alunos de ensino medio,outra questão que ela
+levantou foi sobre a faixa etaria que estariamos atingindo,como tenho pouca
+habilidade neste tipo de documento gostaria de saber se alguem ja lidou com
+uma situação desta,ou já temos um meta funcionando dentro de uma escola para
+trocarmos experiencias.Obrigado por qualquer retorno.Vamo que Vamo!!!!!!!
+Regis (-:
+  
+  
+"O Universo é uma rua de mão única"
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                   eita porra o canatto ta vivo iiiiiiiiiiirrrrrrrrrrrrruuuuuuuuuuuuuuuuu
+que boa noticia mano loko isso veio.. vou cobrar em mano quando
+volta.. queremos ouvir as histórias estamos esperando..
+
+feju
+
+On 8/3/05, Dalton Martins <dmartins_br-/E1597aS9LQAvxtiuMwx3w@public.gmane.org> wrote:
+> 
+>  belas notícias, mano zé!
+>  tá fino a coisa por aí!!!
+> 
+>  bom trabalho para todos vocês e muita força nas oficinas, que estavam
+> sendo duca!!!!
+> 
+> abs,
+> dalton
+> 
+> --- jose canatto <joseantoniocanatto-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+> 
+> > Bem, avalanche de eventos ações e demandas, as
+> > oficinas estão sendo as mais variadas mesmo sob os
+> > modelos iniciais de metarec, e do pessoal dos pontos
+> > sampa.
+> > Comecei com o metarec I, monta desmonta testa, separa
+> > gabinetes pra pintura, pra oficina de arte da val,
+> > tocando também instalação slack e tela preta pra
+> > ajudar o jeff e raina que no mob mandam brasa no
+> > debian, adm. sistem. ananias.
+> > Estou tocando ma> feju... gostei de ver... hehehe bem, vc simplificou o meta de uma
+> maneira legal. acho que essa tua preocupação tb é nossa. só podemos
+> fazer alguma diferença quando pensamos que temos uma retaguarda
+> engajada.
+ai que está eu não sou dessas pessoas que estam pensando na
+retarguarda e sim como fazer tipo pau para toda obra...
+
+> Eu estou tentando escrever o que significa o metafora/metareciclagem
+> no âmbito filosofico. creio que essa idéia distribuida de agirmos dá
+> certo. tem muito mais a ver com a idéia do conhecimento livre, de
+> redes, de rizomas não termos lideranças definidas e nem hierarquia.
+isso é metareciclagem foi o que eu aprendi e sinto até hoje, essa
+forma de hierarquia é um jeito dificil de se lidar e complicado ainda
+mas para uma pessoa que nunca teve uma opurtunidade como essa e está
+tendo agora como eu estou, mas eu sou novo e me deparo muitas vezes
+com problemas que eu acho que são dragões de três cabeças... sei lá é
+um desabafo só isso...
+
+> acho que cada um c
+ é isso!
+ vamos conversar com o cara.
+ acho que vai ser bem mais simples do que parece....
+
+abs,
+dalton
+
+--- Willians Pedroso <willianspedroso-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+
+>  galera bom politicagem não é comigo, mas como eu estou envolvido e
+> realmente estou dentro disso... acho que esse papo é uma forma de
+> colocarmos o que estamos fazendo e como estamos fazendo e é como
+> sempre fizemos.
+>  ele veio algumas vezes aqui no espaço e parou para converssamos com
+> nós uma única vez... ele realmente não sabe o que é metareciclagem,
+> deve saber o que falaram para ele ou aquele discursinho básico de que
+> "recebemos as doações, triamos, instalamos e montamos
+> telecentros...."
+>  temos que mostrar que nós somos e fazemos muito mas que isso, temos
+> um trabalho de pesquisa lowtech muito forte, tanto com software como
+> em hardware isso é ducaralho tenho uma satisfação pessoal com isso,
+> estou até hoje no projeto por esse motivo de estar em constante
+> treinamento e
+ belas notícias, mano zé!
+ tá fino a coisa por aí!!!
+
+ bom trabalho para todos vocês e muita força nas oficinas, que estavam
+sendo duca!!!!
+
+abs,
+dalton
+
+--- jose canatto <joseantoniocanatto-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+
+> Bem, avalanche de eventos ações e demandas, as
+> oficinas estão sendo as mais variadas mesmo sob os
+> modelos iniciais de metarec, e do pessoal dos pontos
+> sampa. 
+> Comecei com o metarec I, monta desmonta testa, separa
+> gabinetes pra pintura, pra oficina de arte da val,
+> tocando também instalação slack e tela preta pra
+> ajudar o jeff e raina que no mob mandam brasa no
+> debian, adm. sistem. ananias.
+> Estou tocando maracatu com o caranguejo. Se der tempo
+> e conseguir aprender em tempo recorde a mexer vou
+> produzir algum som daqui.
+> Entre uma poesia prosa e outra tocada nas horas vagas,
+> 
+> www.geocities.com/joseantoniocanatto
+> no texto buriti.
+> O pessoal do tainã (Expresso), mexicano alemão perna
+> um  poeta do pernanmbuco, robson umBem, avalanche de eventos ações e demandas, as
+oficinas estão sendo as mais variadas mesmo sob os
+modelos iniciais de metarec, e do pessoal dos pontos
+sampa. 
+Comecei com o metarec I, monta desmonta testa, separa
+gabinetes pra pintura, pra oficina de arte da val,
+tocando também instalação slack e tela preta pra
+ajudar o jeff e raina que no mob mandam brasa no
+debian, adm. sistem. ananias.
+Estou tocando maracatu com o caranguejo. Se der tempo
+e conseguir aprender em tempo recorde a mexer vou
+produzir algum som daqui.
+Entre uma poesia prosa e outra tocada nas horas vagas,
+
+www.geocities.com/joseantoniocanatto
+no texto buriti.
+O pessoal do tainã (Expresso), mexicano alemão perna
+um  poeta do pernanmbuco, robson um ultra hip-hoper do
+mob (a voz dele é muito parecida com a de ice blue),
+todos produzindo material original. lamartine de
+várias correntes do movimento negro. Muito debate mas
+também muita farra q ninguém aqui é de ferro. 
+Tá rolando muita coisa e na volta eu conto mais
+
+abs.
+zé feju... gostei de ver... hehehe bem, vc simplificou o meta de uma
+maneira legal. acho que essa tua preocupação tb é nossa. só podemos
+fazer alguma diferença quando pensamos que temos uma retaguarda
+engajada.
+Eu estou tentando escrever o que significa o metafora/metareciclagem
+no âmbito filosofico. creio que essa idéia distribuida de agirmos dá
+certo. tem muito mais a ver com a idéia do conhecimento livre, de
+redes, de rizomas não termos lideranças definidas e nem hierarquia.
+acho que cada um contribue onde pode e quer. eu não saio nas
+correrias, meu interesse é fazer a ponte, a conversação com as
+instituições. tento fazer isso da melhor maneira possivel. mas é foda!
+pois somos um grupo distribuido que muitas vezes perde a noção do
+todo.
+acho justo vc dizer que se mandarem vcs vão fazer. são pagos para
+isso, certo. e se vc acha justo... mande ver! no entanto, creio que
+estamos num momento onde precisamos de uma TAZ colaborativa. acabamos
+nos fechando com vc bem disse... num projeto que  galera bom politicagem não é comigo, mas como eu estou envolvido e
+realmente estou dentro disso... acho que esse papo é uma forma de
+colocarmos o que estamos fazendo e como estamos fazendo e é como
+sempre fizemos.
+ ele veio algumas vezes aqui no espaço e parou para converssamos com
+nós uma única vez... ele realmente não sabe o que é metareciclagem,
+deve saber o que falaram para ele ou aquele discursinho básico de que
+"recebemos as doações, triamos, instalamos e montamos telecentros...."
+ temos que mostrar que nós somos e fazemos muito mas que isso, temos
+um trabalho de pesquisa lowtech muito forte, tanto com software como
+em hardware isso é ducaralho tenho uma satisfação pessoal com isso,
+estou até hoje no projeto por esse motivo de estar em constante
+treinamento e aprendizado, trazendo e compartilhando conhecimento...
+(ah tem a parte da grana que me sustenta mas deixa isso pra lá
+ahuahauhauhau)
+ bom isso é que temos que expor para ele, no dia que ele esteve e
+conversou comigo foi aqufelipe, eu nunca partilhei da tua preocupação pq não há muita
+diferença de demandas entre o pessoal do serra e o pessoal da marta. a
+cris hippolito, que era marta e depois foi serra, nunca deu uma força.
+aliás, além dessa parceria que foi cunhada pelo cp [sic] nada mais
+aconteceu. acho que o metareciclagem deveria estar sendo 'financiado'
+mais enfaticamente. os tres salarios que eles pagam não ajudam muito o
+projeto. e isso temos que repensar... e se possivel rever alguns
+pontos dessa interlocução com as instituições. o meta é um projeto de
+politica publica. mais viável do que os projetos do pc popular e/ou do
+pc de 100 doletas. os caras do gov tem usado nossas prerrogativas mas
+não estão nos devolvendo na forma de sustentabilidade. na verdade,
+para eles quanto mais fudidos estivermos mais na mão estaremos...
+mochila na mão é a solução...hehehe
+que seria o projeto piaui sem a ação metarecicleira? alguem pode responder?
+abs
+hdhd
+
+On 8/2/05, Felipe Fonseca <felipefonseca-Re5JQEeQqe8AvxtiE ai Dalton..
+
+Acho que a Chapa vai esquentar por aqui..pois as
+outras máquinas só chegarm a manhã e depois e vai
+ficar tudo na  responsa da nossa rapa aqui..vamo dar
+nossos pulos..
+
+GIL BV
+MHHOB
+
+
+--- Dalton Martins <dmartins_br-/E1597aS9LQAvxtiuMwx3w@public.gmane.org> escreveu:
+
+> 
+>  http://www.baguete.com.br/noticia.php?id=4341
+> 
+> as,
+> dalton
+> 
+> __________________________________________________
+> Converse com seus amigos em tempo real com o Yahoo!
+> Messenger 
+> http://br.download.yahoo.com/messenger/ 
+> _______________________________________________
+> Metarec mailing list
+> Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+>
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+> 
+
+
+
+	
+	
+		
+_______________________________________________________ 
+Yahoo! Acesso Grátis - Internet rápida e grátis. 
+Instale o discador agora! http://br.acesso.yahoo.com/
+
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+Aê queria que vc dsse uma olhadinha no meu site... as
+obras são todas minhas (de certa forma) ...
+VAleu cara...
+ Os enderecços sâo:
+
+
+           CANTINHO DOS DESENHOS
+http://pholio.ubbi.com.br/
+
+           CANTINHO DOS DESENHOS 02
+http://geocities.yahoo.com.br/cdesenhos/
+
+o primeiro site está meio que com "falhas" na página
+inicial pro causa de um certo Ctrl + c , Ctrl + v e
+acabou por ficar um texo de qualidade horrível mas.....
+
+__________________________________________________
+Converse com seus amigos em tempo real com o Yahoo! Messenger 
+http://br.download.yahoo.com/messenger/ 
+
+
+ http://www.baguete.com.br/noticia.php?id=4341
+
+as,
+dalton
+
+__________________________________________________
+Converse com seus amigos em tempo real com o Yahoo! Messenger 
+http://br.download.yahoo.com/messenger/ 
+
+
+--- Marcelo Braz <mbraz4-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+> Evento que um amigo indicou que tratará de temas
+> relacionados a desenvolvimento sustentável, ecovilas,
+> etc:
+> 
+> http://www.geocities.com/etnovirtual/beijaflor.htm
+
+
+ me falaram desse evento também, mas tava aqui: www.ochamado.org
+
+ que ces acharam?
+
+abs,
+dalton
+
+http://dmartins.blogspot.com
+
+__________________________________________________
+Converse com seus amigos em tempo real com o Yahoo! Messenger 
+http://br.download.yahoo.com/messenger/ 
+
+Pessoal,
+
+meus ultimos email tenho conseguido realizar meu trabalho entre um pau e
+outro da maquina,estou com uma placa mãe que vai dançar a qualquer
+momento,tenho muita coisa a realizar por aqui e estou tirando o maximo que
+posso dele.
+Regis (-:
+  
+  
+"O Universo é uma rua de mão única"
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+==                                                                        ==
+==  CONTATOS--ICQ:259988635 #MSN:regisbailux3-PkbjNfxxIARBDgjK7y7TUQ@public.gmane.org                 ==
+==                                                                        ==
+============================================================================
+
+hei braz,
+
+Estou começando um contato com duas professora muito especiais e que estão
+na luta a muito tempo,vou precisar da lista para me ajudar a dar forma ao
+metabahia-arraial.hoje elas visitaram uma sala da escola um lab que foi
+montado só para tirar foto.ficaram seo as tomadas.
+Regis (-:
+  
+  
+"O Universo é uma rua de mão única"
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+==                                                                        ==
+==  CONTATOS--ICQ:259988635 #MSN:regisbailux3-PkbjNfxxIARBDgjK7y7TUQ@public.gmane.org                 ==
+==                                                                        ==
+============================================================================
+
+Pessaol,
+
+acabei de estar com a Sandra e ela esta empolgadissima.esteve com a diretora
+e o pessoal ficou aberto ao tem do metareciclagem,pediu um documento do que
+queremos na escola para ser enviado a secretaria de educação do municipio
+para autorizacao,gostaria de estar contactando o meta que já fazem algum
+trabalho em escolas(Elly guevara----- help!!!!(bom depois dou mais detlhes
+ddeste contacto.sinto que agora temos nossa triade por aqui.
+
+Regis (-:
+  
+  
+"O Universo é uma rua de mão única"
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+==                                                                        ==
+==  CONTATOS--ICQ:259988635 #MSN:regisbailux3-PkbjNfxxIARBDgjK7y7TUQ@public.gmane.org                 ==
+==        surfo e já tomei muito tombo...rsrs
+
+atualmente curso uma pós de nome educação comunitária
+e também já me envolvi com alguns projetos
+relacionados a educação não-formal.
+
+acho que este tema é crucial para as atividades feitas
+pelos metarecicleiros, afinal muito do que fazemos não
+são açoes afirmativas de conhecimento compartilhado?
+
+fff mandou bem começando aki
+http://metareciclagem.org/fff/?p=1179 e também
+compactuo com as ideías de aprendizado não-formal.
+para dizer a verdade não acredito mais que o ensino
+tradicional conseguirá dar conta das novas demandas.
+porém, o diálogo ainda eh possivel e será o começo do
+fork, dos modos/logos alternativos.
+
+o que não se pode fazer é imaginar que o que estah aih
+, a educacao dogmática sendo imposta, será suficiente.
+
+
+Regis, elly, djair com o mov_humanista e quem quiser
+entrar na roda: vqv!
+
+saudacoes
+
+marcbraz 
+
+--- ellyguevara-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org escreveu:
+
+> aliás,
+> marcbraz tb surfa nesta onda. Marcelo??? Na
+> escuta???Opas
+
+Acho que vale o papo pra argumentar.
+
+Contextualizando pra quem não sabe: Julio, Fejuada
+e Joe trabalham no mezanino, que hoje é o esporo
+mais ativo de sampa. A história lá foi uma parceria
+com a prefeitura anterior: no térreo da galeria
+Olido fica o telecentro cibernarium, parceria do
+governo eletrônico de sampa com a união européia.
+Em cima desse telecentro, o nosso espaço. Da
+maneira como rolou o processo, algumas
+desvantagens esperadas apareceram: os três
+metarecicleiros têm que cumprir horários, obedecer
+a ordens nem sempre razoáveis e seguir a agenda
+política de terceiros, mas em troca recebem um
+salário mensal (menor do que deveria ser). Ou seja,
+nada diferente do que a maioria dos empregos
+que existem por aí. Por outro lado, sempre tivemos
+total autonomia sobre ocupação do espaço por
+outras pessoas (tem dia que aparecem uma
+dúzia de pessoas no espaço, sem dar nenhuma
+satisfação à prefeitura), sobre destino de doações
+e sobre aspectos organizacionais: o pessoal
+da prefeituComo uma linha de pensamento do metarec caminha para
+as opções de auto-sustentabilidade, mando algumas
+dicas:
+
+- Novo aquecedor desenvolvido por equipe da Unesp
+acompanha a trajetória do Sol ao longo do dia e aquece
+três vezes mais do que os equipamentos tradicionais, a
+um custo de R$ 300
+
+http://www.agencia.fapesp.br/boletim_dentro.php?id=4098
+
+Evento que um amigo indicou que tratará de temas
+relacionados a desenvolvimento sustentável, ecovilas,
+etc:
+
+http://www.geocities.com/etnovirtual/beijaflor.htm
+
+abs
+marcbraz
+
+
+
+	
+	
+		
+_______________________________________________________ 
+Yahoo! Acesso Grátis - Internet rápida e grátis. 
+Instale o discador agora! http://br.acesso.yahoo.com/
+
+Metarecicleiros,
+
+Reuniremos hoje para elaborar estrategia de metareciclagem na escola publica
+do arraial,estaremos informando a lista sobre o passo a passo.
+Regis (-:
+  
+  
+"O Universo é uma rua de mão única"
+
+============================================================================
+==http://arraial.metareciclagem.org                                       ==
+==  http://www.bailux.com                                                 ==
+==  [ Movimento de Reapropriação Tecnológica para a Transformação Social] ==
+==                                                                        ==
+==  CONTATOS--ICQ:259988635 #MSN:regisbailux3-PkbjNfxxIARBDgjK7y7TUQ@public.gmane.org                 ==
+==                                                                        ==
+============================================================================
+
+ é isso mesmo.
+ poderíamos estar juntos nessa papo para deixarmos claro esses pontos
+de vista.
+ que tal?
+
+abs,
+dalton
+
+--- Hernani Dimantas <hdimantas-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org> escreveu:
+
+> legal... vou tentar aparecer lá tb. 
+> temos que tomar alguns cuidados com projetos mirabolantes. pois vamos
+> assinar em baixo. o metareciclagem não é o mc donalds da reciclagem.
+> é
+> um projeto conceitual de apropriação tecnologica, de ocupação de
+> espaços informacionais e tb embute uma visão diferenciada do que os
+> caras chamam 'inclusão digital'. pensar em metareciclagem é ir um
+> pouco além do que colocar computadores em lugares chamativos...
+> abs
+> hdhd
+> 
+> On 8/2/05, julio cesar <julio_ninja2000-/E1597aS9LRfJ/NunPodnw@public.gmane.org> wrote:
+> > aee...
+> > O Pedro (nosso chefe do gov. eletronico)....acabou de
+> > sair daki....
+> > ele pediu uma reunião pra terça-feira dia 9 as 15h.
+> > aki no mesanino...
+> > ele veio passar umas ideias que ele teve..
+> > coisas assim...
+>--- Djair Guilherme <djair.jr-y7mWNqJcIDpfJ/NunPodnw@public.gmane.org> escreveu:
+> Acho que o fundamental é começarmos a compartilhar como temos
+> resolvido 
+> a questão "metareciclagem" e nos colocarmos como orientadores desses 
+> processos, de forma que esses novos grupos fiquem autônomos. E isso
+> não 
+> quer dizer chegar no lugar com as máquinas e os técnicos, deixar tudo
+> funcionando e ir embora...
+
+ com certeza.
+ acho que o modelo de oficinas e orientação que rolou no piauí vai
+nessa linha.
+ mas, pensemos.
+
+abs,
+dalton
+
+http://dmartins.blogspot.com
+
+
+	
+	
+		
+_______________________________________________________ 
+Yahoo! Acesso Grátis - Internet rápida e grátis. 
+Instale o discador agora! http://br.acesso.yahoo.com/
+
+Acho que temos que estruturar bem a idéia, para não começarmos a 
+replicar a política clientelista do governo.
+
+Na outra semana havia um figura que procurou o meta atrás de doação de 
+máquinas.
+
+Agora outro, atrás de soluções a serem implementadas nestes centros 
+comunitários.
+
+Sabemos que o meta pode ser mais que doar máquinas ou conhecimento técnico.
+
+Acho que podemos compartilhar, orientar estes grupos.
+
+Explicar como conseguir as máquinas, como reciclar os equipamentos, usar 
+software livre, etc...
+
+Sei que tem uma galera do meta que está trabalhando com governos em 
+diversas frentes, mas não é a única forma viável de levar a 
+metareciclagem. Nós do MH estamos tocando o recicla só com doações de 
+pessoas comuns. Estamos comprando uma MOBO de PIV agora, porque 
+precisamos de uma máquina melhor. E ganhamos o Processador e os HDs. Só 
+falta a placa mãe e as memórias. Se tivéssemos tempo, ainda poderíamos 
+conseguir na faixa.
+
+Alguns grupos podem precisar de orientação sobre como conse--- julio cesar <julio_ninja2000-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+
+> aee...
+
+Ae
+
+
+> O Pedro (nosso chefe do gov. eletronico)....acabou de
+> sair daki....
+> ele pediu uma reunião pra terça-feira dia 9 as 15h.
+> aki no mesanino...
+> ele veio passar umas ideias que ele teve..
+> coisas assim...
+> ele ta afim de fazer o projeto crescer mais
+> ainda.....pediu pra que pesquisassemos qual tipo de
+> maquina que é necessario pra poder montar terminais de
+> acesso rapido em igrejas....centros comunitarios,
+> etc......nada de montar em
+> telecentros..escolas....
+
+podia explicar porque o metareciclagem deveria dar apoio para um
+projeto que prevê pontos de acesso em igrejas e não tem aceita o
+mesmo para escolas e telecentros? Ainda sou novo no assunto mas isso
+não é meio esquisito e contra o foco do metarec não? ou estou
+equivocado? talvez eu esteja mesmo, mas queria saber o porquê.
+
+
+[]a0
+
+Régis (sou o regisfg, de BH/MG, mais um Régis no metarec). :-) 
+Mais informações em
+http://wlegal... vou tentar aparecer lá tb. 
+temos que tomar alguns cuidados com projetos mirabolantes. pois vamos
+assinar em baixo. o metareciclagem não é o mc donalds da reciclagem. é
+um projeto conceitual de apropriação tecnologica, de ocupação de
+espaços informacionais e tb embute uma visão diferenciada do que os
+caras chamam 'inclusão digital'. pensar em metareciclagem é ir um
+pouco além do que colocar computadores em lugares chamativos...
+abs
+hdhd
+
+On 8/2/05, julio cesar <julio_ninja2000-/E1597aS9LRfJ/NunPodnw@public.gmane.org> wrote:
+> aee...
+> O Pedro (nosso chefe do gov. eletronico)....acabou de
+> sair daki....
+> ele pediu uma reunião pra terça-feira dia 9 as 15h.
+> aki no mesanino...
+> ele veio passar umas ideias que ele teve..
+> coisas assim...
+> ele ta afim de fazer o projeto crescer mais
+> ainda.....pediu pra que pesquisassemos qual tipo de
+> maquina que é necessario pra poder montar terminais de
+> acesso rapido em igrejas....centros comunitarios,
+> etc......nada de montar em
+> teaee...
+O Pedro (nosso chefe do gov. eletronico)....acabou de
+sair daki....
+ele pediu uma reunião pra terça-feira dia 9 as 15h.
+aki no mesanino...
+ele veio passar umas ideias que ele teve..
+coisas assim...
+ele ta afim de fazer o projeto crescer mais
+ainda.....pediu pra que pesquisassemos qual tipo de
+maquina que é necessario pra poder montar terminais de
+acesso rapido em igrejas....centros comunitarios,
+etc......nada de montar em
+telecentros..escolas....seria umas 2 ou 3 maquinas por
+local....seriam terminais semelhantes ao que existem
+nos McDonald's....maquinas simples que q possa suprir
+as necessidades das pessoas que acessam....ele pensa
+em algo acima de pentium 300Mhz....eu falei pra ele
+que eh dificil receber-mos maquinas dessa
+configuração....ele disse que se possivel até pode
+comprar....
+
+bom..eh isso...
+a Reuniao eh dia 9 (terça-feira) as 15h aki no
+mesanino
+
+Julio Milan
+
+
+	
+	
+		
+_______________________________________________________ 
+Yahoo! Acesso Grátis - Internet rápida e grmanda a palestra
+queria replicar ela aqui essa semana, mas soh com o video e a  
+lembranca fica dificil
+ia ser da hora o pdf mesmo
+x
+
+On Jul 28, 2005, at 7:49 PM, Dalton Martins wrote:
+
+>
+>  beleza, fla!
+>  a gente revisa então a palestra antes de eu mandar para o ff.
+>  seria legal também incluirmos outras coisas, outras iniciativas.
+>  pensamos juntos na semana que vem.
+>
+> bjs,
+> dalton
+>
+>
+> --- Flavia Cremonesi <flavia_cremonesi-/E1597aS9LRfJ/NunPodnw@public.gmane.org> escreveu:
+>
+>
+>> Alguem poderia me doar acentos!!!!
+>>
+>> Entao Padua, quando levantei as informacoes de impacto
+>> ambiental de lixo eletro-eletronico, fiz uma busca das
+>> empresas que manipulavam eletro-eletronicos para saber
+>> a respeito de seguranca de trabalho, tentei entrar em
+>> contato com os quimicos responsaveis por tal divisao.
+>> Foi um trabalhao, porem ninguem me respondeu as
+>> questoes, creio que sentiam-se ameacados pois eu me
+>> referia a uma ONG da qual participava no momento. Vou
+>> buscar estasFernando,
+
+- seria possível isso, com a quantidade de dialetos
+que tem por aih?(rs) :
+
+http://www.indlinux.org/wiki/index.php/Main_Page
+
+- grupo de usus linux :
+
+http://www.linux-india.org/index.pl?id=2198&isa=Category&op=show
+
+em wireless, pessoal aih conhece o simputer, portátil
+que roda linux e tem vários dispositivos de conexão?
+http://amidasimputer.com/why/
+
+e esta iniciativa de computador "popular"?
+
+http://in.news.yahoo.com//050510/137/5yhow.html  e
+http://openflows.org/article.pl?sid=05/05/10/2318257
+
+abracao e que os deuses os protejam (rs).
+
+marcbraz
+
+
+
+
+
+	
+	
+		
+_______________________________________________________ 
+Yahoo! Acesso Grátis - Internet rápida e grátis. 
+Instale o discador agora! http://br.acesso.yahoo.com/
+
+Diego aqui é o Rafael(Mancha).Direto de Teresina (PI).
+ Muito legal o trampo de voseis nós estamos
+trabalhando com meta_reciclagem de micros, é muito
+louco nós desmontamos mais de 100 micros, graffitamos,
+e o que paressia lata velha hoje tá novo valeu pelo
+e-mail por favor mande outros informes.
+..............Valeu um salve e até mais...........    
+
+__________________________________________________
+Converse com seus amigos em tempo real com o Yahoo! Messenger 
+http://br.download.yahoo.com/messenger/ 
+
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+Queridos amigos,
+
+Estou sentindo aquela adrelanalina de metareciclar,revirei todas combinaçoes
+possiveis do MAC, de placa mãe,memoria ram,memorias,processadores,usei
+alcool na placa mãe,secador e tudo mais....e estou aqui em pé na luta e
+gosto muito disto,a luta contra a entropia.axe e a vida é bela.
+Regis (-:
+  
+  
+
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
+_______________________________________________
+Metarec mailing list
+Metarec-cItSA2N9Xomh6J55Ss3d3w@public.gmane.org
+http://www.colab.info/cgi-bin/mailman/listinfo/metarec
