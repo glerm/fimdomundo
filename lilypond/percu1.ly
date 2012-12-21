@@ -1,0 +1,28 @@
+
+timb = \drummode {
+    \time 4/4
+    tri8. sn16 tamb8 hh bd tamb 
+    tamb4. r8 tamb tamb 
+    tamb2. 
+  }
+\score {
+  <<
+    \new DrumStaff \with {
+      drumStyleTable = #drums-style
+      \override StaffSymbol #'line-count = #1
+      \override BarLine #'bar-size = #1 
+    } <<
+      \set Staff.instrumentName = #"Joystick"
+      \timb
+    >>
+
+    
+  >>
+  \layout { }
+  \midi {
+    \context {
+      \Score
+      tempoWholesPerMinute = #(ly:make-moment 120 4)
+    }
+  }
+}
