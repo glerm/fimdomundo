@@ -3,7 +3,7 @@
 from BeautifulSoup import *
 import urllib2
 
-#abrindo do site############################################
+#abrindo do site
 #l=("http://www.sincronariodapaz.org/altera/CalculoKin/crono1B.php?dianterior=24&diaposterior=&mesf=12&anof=2012")
 #page = urllib2.urlopen(l)
 #soup = BeautifulSoup(page)
@@ -11,13 +11,11 @@ import urllib2
 
 #teste local
 soup = BeautifulSoup(open("teste.html"))
-
-##################### metodo pra subtituir tags
-#while True: 
-#    td = soup.find('td')
-#    if not td:
-#        break
-#    td.name = 'div'
+while True: 
+    td = soup.find('td')
+    if not td:
+        break
+    td.name = 'div'
 
 
 
@@ -45,23 +43,14 @@ stable = table
 for e in stable.findAll('img'):
         e.extract()
 
-table = stable("td")
-t1=table[1]("font")[0]
-t2=(table[2]("font")[0])("font")[0]
-
-
-t1.find("font").extract()
-t1.find("b").extract()
-
+table = stable("div")
 
 
 print "<meta charset=\"UTF-8\">\n"
 print imgs
-print "\n------------------------\n"
-print t1.prettify()
-print "\n------------------------\n"
-print t2.prettify()
+print table[1]("font")[0].font.extract
+#print table[2]
 #print table[3]
-#print tt
+
 
 #print soup.prettify()

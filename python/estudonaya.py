@@ -47,20 +47,15 @@ for e in stable.findAll('img'):
 
 table = stable("td")
 t1=table[1]("font")[0]
-t2=(table[2]("font")[0])("font")[0]
-
 
 t1.find("font").extract()
 t1.find("b").extract()
 
-
-
 print "<meta charset=\"UTF-8\">\n"
 print imgs
-print "\n------------------------\n"
 print t1.prettify()
 print "\n------------------------\n"
-print t2.prettify()
+print table[2]
 #print table[3]
 #print tt
 
